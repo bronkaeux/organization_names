@@ -15,4 +15,3 @@ The customer's accounting program requires extracting the names of its counterpa
 * *re*
 * *pandas*
 * *numpy*
-To extract the name and form of ownership of the organization from the raw line and present them in the following form:
