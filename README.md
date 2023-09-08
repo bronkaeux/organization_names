@@ -9,6 +9,7 @@ The customer's accounting program requires extracting the names of its counterpa
 | Индивидуальный Предприниматель Логинов Андрей Николаевич | Логинов А., ИП | Surname Name (1st letter), Form of ownership (abbreviated) |
 | текст // ИЗМАЙЛОВ ВАЛЕРИЙ МИХАЙЛОВИЧ // текст | Измайлов В. | Surname Name (1st letter) |
 | ООО "КОМПАНИЯ "УЗОР" | УЗОР, КОМПАНИЯ, ООО | Main organization's name, Middle name, Form of ownership (abbreviated) |
+| ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "Трио" | Трио, ЗАО | Main organization's name, Form of ownership (abbreviated) |
 ## Libraries
 * *re*
 * *pandas*
