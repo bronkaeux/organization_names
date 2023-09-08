@@ -5,7 +5,7 @@ The names of counterparties from the bank statement are given in different spell
 The customer's accounting program requires extracting the names of its counterparties according to a certain principle. The principle is the following:\
 
 **Raw Name** | **Output** | **Description**
----------------------------------------------------------------------------
+------------
 АО "Р-БАНК" | Р-БАНК, АО | Main organization's name, Form of ownership (abbreviated)
 Логинов Андрей Николаевич | Логинов А., ИП | Surname Name (1st letter), Form of ownership (abbreviated)
 ## Libraries
