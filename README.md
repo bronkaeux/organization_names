@@ -2,7 +2,7 @@
 ## Data
 The names of counterparties from the bank statement are given in different spelling formats
 ## Task
-The customer's accounting program requires extracting the names of its counterparties according to a certain principle. The principle is the following:
+The customer's accounting program requires extracting the names of its counterparties according to a certain principle. The principle is the following:\
 
 **Raw Name**|**Output**|**Description**
 _____________________________________________________________________________
